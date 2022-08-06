@@ -41,3 +41,7 @@ Lista de tarefas: - []
 
 - [] Item 1
 - [x] Item 2
+
+
+Imagem: 
+![Descrição](link)
