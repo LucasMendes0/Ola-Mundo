@@ -7,19 +7,16 @@ CTRL + P para dar push
 
 # MARKDOWN
 
-* * = *itálico*
-** ** ou __ __ = **negrito**
-~~ ~~ = ~~riscado~~
-__**__ = __*Negrito e itálico*__
+*itálico*
+**negrito**
+~~riscado~~
+__*Negrito e itálico*__
 
-.#:
 # Título 1
-.##:
 ## Título 2
-.###:
 ### Título 3
 
-*** ou --- : linha
+Linha:
 ***
 
 Lista numerada:
@@ -30,7 +27,7 @@ três espaços transformam em subitens
 99. Teste2
    0. Teste 3
 
-Lista demarcada: * ou -
+Lista demarcada:
 
 - teste
 * teste
@@ -45,3 +42,25 @@ Lista de tarefas: - []
 
 Imagem: 
 # ![Descrição](https://miro.medium.com/max/799/1*1KqFn5GQGTTX1pBs7o2SSg.jpeg)
+
+Link:
+[Descrição][https://github.com/LucasMendes0/Ola-Mundo]
+
+Tabela:
+
+1 | 2 | 3
+---|---|---
+1 | 2 | 3
+2 | 3 | 4
+3 | 4 | 5
+
+`CAIXA CINZA`
+
+```
+
+código
+
+```
+
+emoji :hand:
+
